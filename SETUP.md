@@ -35,7 +35,7 @@ This file contains your Firebase API keys and must NOT be committed to version c
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone <https://github.com/saakibuilt/Gamers-Box>
 cd games
 
 # 2. Install Flutter dependencies
