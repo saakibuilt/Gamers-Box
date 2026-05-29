@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>488712500071-a60joqap8okvpi1hv48fhdrk0sbgsfto.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.488712500071-a60joqap8okvpi1hv48fhdrk0sbgsfto</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrNRyISYFBeNHknGXLsro4x7Le6BKM0Ao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>488712500071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saaki.gamesvault</string>
+	<key>PROJECT_ID</key>
+	<string>games-6b6a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>games-6b6a7.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:488712500071:ios:d3035fb37250370b6135c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://games-6b6a7-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

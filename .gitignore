@@ -1,0 +1,134 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+*.iml
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS build artifacts
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+
+# macOS build artifacts
+**/macos/Flutter/Flutter-Debug.xcconfig
+**/macos/Flutter/Flutter-Release.xcconfig
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Linux build artifacts
+/linux/flutter/ephemeral/
+/linux/flutter/generated_plugins.cmake
+/linux/flutter/generated_plugin_symlinks/
+
+# Windows build artifacts
+/windows/flutter/ephemeral/
+/windows/flutter/generated_plugins.cmake
+/windows/flutter/generated_plugin_symlinks/
+
+# Web related
+/web/packages
+/web/plugins/
+.dart_tool/
+
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iml
+.idea_modules/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Generated files
+*.iml
+
+# Backup files
+*.bak
+*~
+*.tmp
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency and build artifacts
+pubspec.lock
+.dart_tool/
+build/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Temporary files
+*.tmp
+.tmp/
+tmp/
+
+# Local development
+.local
+.cache
+*.log
+*.log.*
+
+# CRITICAL: Sensitive lib files - MUST NOT COMMIT
+lib/core/firebase_options.dart
+lib/**/*_config.dart
+lib/**/*_secrets.dart
+lib/**/*.env
+lib/constants/api_keys.dart

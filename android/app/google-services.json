@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488712500071",
+    "firebase_url": "https://games-6b6a7-default-rtdb.firebaseio.com",
+    "project_id": "games-6b6a7",
+    "storage_bucket": "games-6b6a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488712500071:android:6a4d13ff977965e26135c2",
+        "android_client_info": {
+          "package_name": "com.example.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488712500071-u9jv56sh0l7ebse7n537esusk7cuevf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEtes05pbohCqqIz_wvQQj-Uxgk1LqZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488712500071-u9jv56sh0l7ebse7n537esusk7cuevf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
